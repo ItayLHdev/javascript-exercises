@@ -9,7 +9,7 @@ const sumAll = function(min, max) {
   for (let i = min; i <= max; i++) {
     count += i;
   }
-
+  
   return count;
 };
 
